@@ -1,0 +1,132 @@
+
+body
+{
+  background-color: #CDF0EA;
+  text-align: center;
+}
+
+.bottom-container
+{
+  background-color: #94B49F;
+}
+.comp
+{
+
+  width: 25%;
+  float: left;
+  margin-right: 50px;
+}
+
+.contact-me
+{
+  padding-top: 100px;
+}
+
+h1
+{
+  margin: 0;
+  margin-top: 50px;
+  font-family: Sacramento;
+  font-size: 100px;
+
+}
+
+h3
+{
+  font-family: Peralta;
+  font-size: 30px;
+}
+
+h2
+{
+  font-weight: normal;
+  font-family: Peralta;
+  font-size: 50px;
+}
+
+hr
+{
+  border-style: dotted;
+  border-bottom: none;
+  width: 4%;
+}
+
+.info
+{
+  font-size: 23px;
+}
+
+.gif
+{
+  position: absolute;
+  right: 200px;
+  top: 400px;
+}
+
+.middle-container
+{
+  padding-top: 100px;
+}
+
+.skills
+{
+  padding-top: 100px;
+}
+.simp
+{
+  position: absolute ;
+  height: 150px;
+  width: 200px;
+  left: 80px;
+  top: 800px;
+
+}
+
+.skill-row
+{
+  width: 60%;
+  margin: 100px auto 100px auto;
+  line-height: 2;
+  text-align: left;
+
+}
+
+.top
+{
+  position: relative;
+  padding-top: 100px;
+}
+
+
+.top-cloud
+{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+.bottom-cloud
+{
+  position: absolute;
+}
+
+.profilepic
+{
+  height: 400px;
+  width: 250px;
+ border-radius: 20%;
+}
+
+.profile
+{
+  text-align: center;
+  width:50%;
+  margin-left: 25%;
+}
+
+.uni
+{
+  width: 25%;
+  float: right;
+  margin-left: 50px;
+
+}
